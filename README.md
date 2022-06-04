@@ -1,4 +1,4 @@
-# MATO manufacturing
+# flask-bootstrap-template
 
 makre sure to install the pip packages in the pipfile
 
