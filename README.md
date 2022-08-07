@@ -16,6 +16,6 @@ $ flask run
  * Running on http://127.0.0.1:8000/
  ```
 
-Then run ```pipenv sync``` to sync the virtual environment
+Then run ```pipenv sync``` to sync the virtual environment, then ```pipenv shell```.
 
 Finally ```flask run```
